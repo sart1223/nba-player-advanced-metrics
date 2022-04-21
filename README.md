@@ -1,4 +1,4 @@
-# nba-player-advanced-metrics
+**# nba-player-advanced-metrics
 
 `nba-data-historical.csv` contains historical RAPTOR and other NBA data.
 
@@ -47,5 +47,5 @@ Note: The following columns are not included for the 2019-20 season or later: `t
 | FT%         | Free throw percentage                               |
 | 3PAr        | Share of field goal attempts that were 3-pointers   |
 | FTAr        | Ratio of free throw attempts to field goal attempts |
-| Pace +/-    | Player's effect on team pace                        |
+| Pace +/-    | Player's effect on team pace                        |**
 
